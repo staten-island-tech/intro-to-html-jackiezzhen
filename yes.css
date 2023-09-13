@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(177, 213, 243);
+    font-size: 40px;
+}
+
+li {
+    font-size: 20px;
+}
+.list-item{
+    font-size: 36px;
+}
+
+#colours{
+ font-size:60px;
+ background-color: aquamarine;
+}
